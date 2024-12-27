@@ -1,0 +1,37 @@
+23.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:736,328,130,171
+Layer 1 copy
+bounds:186,54,169,160
+offsets:0,1,170,161
+Layer 2
+bounds:2,31,182,468
+offsets:1,1,184,471
+Layer 3
+bounds:2,2,27,174
+offsets:1,0,28,174
+rotate:90
+Layer 4
+bounds:474,156,81,98
+offsets:1,1,84,100
+Layer 4 copy
+bounds:736,233,93,102
+offsets:1,1,95,104
+rotate:90
+Layer 5
+bounds:459,256,275,243
+offsets:1,1,277,245
+Layer 6
+bounds:868,358,141,154
+offsets:1,2,143,157
+rotate:90
+Layer 6 copy
+bounds:357,47,167,115
+offsets:1,1,169,118
+rotate:90
+Shape 52
+bounds:186,216,271,283
+offsets:0,0,530,470

@@ -1,0 +1,17 @@
+75_2.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,154,398,352
+offsets:1,1,410,354
+Layer 2
+bounds:2,2,141,150
+offsets:1,1,143,152
+Layer 3
+bounds:779,357,139,149
+offsets:1,1,141,151
+Layer 4
+bounds:402,237,269,375
+offsets:1,1,271,377
+rotate:90

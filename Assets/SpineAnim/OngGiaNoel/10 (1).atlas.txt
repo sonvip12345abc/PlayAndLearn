@@ -1,0 +1,25 @@
+10 (1).png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:592,127,51,63
+offsets:1,1,53,65
+Layer 2
+bounds:933,657,60,66
+offsets:1,1,62,68
+Layer 3
+bounds:512,116,74,78
+offsets:1,1,76,80
+rotate:90
+Layer 4
+bounds:2,2,52,67
+offsets:1,1,54,69
+Layer 5
+bounds:2,114,508,609
+Layer 6
+bounds:512,192,531,419
+rotate:90
+Layer 7
+bounds:2,71,148,41
+offsets:0,1,148,43

@@ -1,0 +1,17 @@
+30.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.8
+Layer 1
+bounds:244,2,251,290
+rotate:90
+Layer 1 copy
+bounds:638,238,251,290
+rotate:90
+Layer 3
+bounds:244,255,392,234
+offsets:1,0,393,234
+Shape 48
+bounds:2,96,240,393
+offsets:75,0,373,484

@@ -1,0 +1,63 @@
+46.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+1
+bounds:950,821,48,53
+offsets:1,0,50,53
+2
+bounds:252,221,42,50
+offsets:0,0,43,50
+3
+bounds:2,2,35,50
+offsets:1,0,36,50
+rotate:90
+4
+bounds:535,497,47,56
+offsets:0,1,48,57
+5
+bounds:636,736,61,52
+offsets:0,1,61,53
+66
+bounds:157,142,50,10
+offsets:1,1,52,12
+rotate:90
+Layer 1
+bounds:2,703,632,314
+offsets:1,2,634,317
+Layer 10
+bounds:535,555,146,112
+offsets:2,0,149,112
+rotate:90
+Layer 11
+bounds:304,315,89,102
+offsets:0,2,90,105
+Layer 12
+bounds:872,876,137,141
+offsets:0,0,144,141
+Layer 2
+bounds:404,459,242,129
+rotate:90
+Layer 3
+bounds:2,194,170,223
+Layer 4
+bounds:404,424,33,57
+offsets:1,1,35,59
+rotate:90
+Layer 5
+bounds:174,220,76,51
+offsets:1,1,79,53
+Layer 6
+bounds:872,820,76,54
+offsets:1,1,78,56
+Layer 7
+bounds:174,273,128,144
+Layer 8
+bounds:2,39,153,153
+offsets:1,0,155,154
+Layer 9
+bounds:2,419,400,282
+offsets:13,62,443,406
+Shape 65
+bounds:636,790,234,227
+offsets:60,38,294,498

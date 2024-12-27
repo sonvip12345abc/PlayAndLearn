@@ -1,0 +1,23 @@
+60 - schoolbus.png
+size:1024,512
+format:Alpha
+filter:Linear,Linear
+pma:true
+1
+bounds:3,92,566,170
+offsets:1,1,568,172
+Ellipse 1 copy 10
+bounds:603,389,98,97
+offsets:1,1,100,99
+Ellipse 1 copy 11
+bounds:603,389,98,97
+offsets:1,1,100,99
+Group 1
+bounds:3,265,597,221
+offsets:1,1,599,223
+Layer 1
+bounds:3,3,671,86
+offsets:1,1,673,88
+Layer 2 copy 3
+bounds:3,489,816,20
+offsets:1,1,818,22
