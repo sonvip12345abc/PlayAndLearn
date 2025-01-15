@@ -51,9 +51,9 @@ public class ChallengeController : Singleton<ChallengeController>
     private void Start()
     {
         listLevelChallenge.Clear();
-        if (listDataLevelChallenge.Count >= 25)
+        if (listDataLevelChallenge.Count >= 5)
         {
-            for (int i = 0; i < 25; i++)
+            for (int i = 0; i < 5; i++)
             {
                 int rd = Random.Range(0, listDataLevelChallenge.Count);
                 listLevelChallenge.Add(listDataLevelChallenge[rd]);
@@ -203,10 +203,10 @@ public class ChallengeController : Singleton<ChallengeController>
     {
         currentLevel++;
         soCauDung++;
-        if (currentLevel >= listLevelChallenge.Count)
+        /*if (currentLevel >= listLevelChallenge.Count)
         {
             currentIndexSkip++;
-        }
+        }*/
         SoundManager.Instance.OnTaptic(TypeTaptic.Success);
         if (soCauDung >= listLevelChallenge.Count)
         {
